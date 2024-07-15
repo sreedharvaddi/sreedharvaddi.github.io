@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["50:82:8F:7D:7C:C7:DB:FC:CD:FA:E3:C3:03:62:F4:4D:94:3F:81:A5:A7:C4:A4:E5:80:83:97:EE:E4:7E:C0:38"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.paypal.android.p2plite.instantapp",
+    "sha256_cert_fingerprints":
+    ["50:82:8F:7D:7C:C7:DB:FC:CD:FA:E3:C3:03:62:F4:4D:94:3F:81:A5:A7:C4:A4:E5:80:83:97:EE:E4:7E:C0:38"]
+  }
 }]
